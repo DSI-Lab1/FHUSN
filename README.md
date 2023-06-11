@@ -1,5 +1,5 @@
 # FHUSN
-This repo hosts the code for paper **"Mining High-Utility Sequences with Positive and Negative Values", Information Science, Xiaojie Zhang, Fuyin Lai, Guoting Chen, and Wensheng Gan, 2022**.
+This repo hosts the code for paper **"Mining High-Utility Sequences with Positive and Negative Values", Information Science, Xiaojie Zhang, Fuyin Lai, Guoting Chen, and Wensheng Gan, 2023**.
 
 ## Requirements
 Java programming language.
@@ -8,7 +8,10 @@ Java programming language.
 A simple way is to run the java test file.
 
 ## Benchmarks
-- The data format used is the same as in the file data.txt.
+- The data format used is the same as in the file DataBase_USpan_N.txt
+
+## Introduction
+This will be introduced later.
 
 ## Citation
 If this article or code useful for your project, please refer to
@@ -24,6 +27,5 @@ If this article or code useful for your project, please refer to
 }
 ```
 
-
 ## Notes
-If there are any questions, please contact me (Email: xjzhang2021@163.com).
+If there are any questions, please contact us (Email: xjzhang2021@163.com).
